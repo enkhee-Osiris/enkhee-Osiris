@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**enkhee-Osiris/enkhee-Osiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+    　　　／＞　 フ
+    　　　| 　_　_|
+    　 　／`ミ _x ノ
+    　 /　　　　 |
+    　/　 ヽ　　 ﾉ
+    │　　|　|　|
+    ／￣|　　 |　|　|
+    (￣ヽ＿_ヽ_)__)
+    ＼二)
+```
 
-Here are some ideas to get you started:
+```
+  Enkherdene Bolormaa
+  Software Engineer
+  -----------------------------------------------
+  Exploring modern technologies,
+  continuously learning new things,
+  and building applications that solve
+  real problems.
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+  -----------------------------------------------
+  REACH ME
+  -----------------------------------------------
+  writings ->  enkhee-osiris.github.io/
+  github   ->  github.com/enkhee-Osiris
+  linkedin ->  linkedin.com/in/enkherdene-bolormaa
+  email    ->  enkhee.ag@gmail.com
+  resume   ->  enkhee-osiris.github.io/resume/enkherdene_bolormaa.pdf
+  -----------------------------------------------
+```
