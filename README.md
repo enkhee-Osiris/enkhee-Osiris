@@ -32,3 +32,7 @@
   resume   ->  enkhee-osiris.github.io/resume/enkherdene_bolormaa.pdf
   -----------------------------------------------
 ```
+
+---
+
+[writings](https://enkhee-osiris.github.io/) · [github](https://github.com/enkhee-Osiris) · [linkedin](https://www.linkedin.com/in/enkherdene-bolormaa) · [email](mailto:enkhee.ag@gmail.com) · [resume](https://enkhee-osiris.github.io/resume/enkherdene_bolormaa.pdf)
